@@ -1,10 +1,10 @@
 # Slim 3 Skeleton
 
-This is a simple skeleton project for Slim 3 that includes Twig, Flash messages and Monolog.
+This is a simple skeleton project for Slim 3 that includes Twig, Flash messages and Monolog [Original Author: Rob Allen (https://github.com/akrabat)].
 
 ## Create your project:
 
-    $ composer create-project -n -s dev akrabat/slim3-skeleton my-app
+    $ composer create-project -n -s stable musaid/slim3-skeleton my-app
 
 ### Run it:
 

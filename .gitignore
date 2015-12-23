@@ -1,3 +1,10 @@
-vendor/
-log/*
-cache/*
+/vendor
+/log/*
+/cache/*
+!/cache/twig/
+/cache/twig/*
+!**.keepme
+composer.phar
+composer.lock
+.DS_Store
+Thumbs.db
