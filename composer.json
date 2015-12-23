@@ -1,14 +1,14 @@
 {
-    "name": "akrabat/slim3-skeleton",
+    "name": "musaid/slim3-skeleton",
     "description": "Simple Slim Framework 3 skeleton with Twig & Monolog.",
     "license": "BSD-3-Clause",
     "type": "project",
     "keywords": ["slim-framework", "skeleton"],
     "authors": [
         {
-            "name": "Rob Allen",
-            "email": "rob@akrabat.com",
-            "homepage": "http://akrabat.com"
+            "name": "musaid",
+            "email": "musaid@live.com",
+            "homepage": "https://dev.mv"
         }
     ],
     "autoload": {
@@ -17,9 +17,9 @@
         }
     },
     "require": {
-        "slim/slim": "^3.0@beta",
-        "slim/twig-view": "^1.1",
+        "slim/slim": "^3.0",
+        "slim/twig-view": "^2.0",
         "slim/flash": "^0.1.0",
-        "monolog/monolog": "^1.13"
+        "monolog/monolog": "^1.17"
     }
 }
